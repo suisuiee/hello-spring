@@ -1,7 +1,6 @@
-package com.example.hellospring.controller.service;
+package com.example.hellospring.service;
 
 import com.example.hellospring.domain.Member;
-import com.example.hellospring.repository.MemberRepository;
 import com.example.hellospring.repository.MemoryMemberRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
